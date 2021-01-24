@@ -38,7 +38,7 @@ A categorized community-driven collection of high-quality, awesome [Luerl](http:
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries*
 
-* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support
+* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods, class variables and mixin support
 
 ## Physics
 *Collision Detection & Physics Wrappers*

@@ -7,13 +7,13 @@ A categorized community-driven collection of high-quality, awesome [Luerl](http:
 ## Table of contents
 
 * [AI](#ai)
-* [Development](#development)
 * [Entity](#entity)
 * [Helper Libraries](#helper-libraries)
 * [Math](#math)
 * [Object Orientation](#object)
 * [Physics](#physics)
 * [Serialization](#serialization)
+* [Utilities](#utilities)
 
 ## AI
 *Navigation, Decision-Making and AI Libraries*

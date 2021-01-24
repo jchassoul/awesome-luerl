@@ -1,8 +1,8 @@
 # awesome-luerl
-![Awesome Luerl](https://luerl.org/images/luerl.png)
+<img src="https://luerl.org/images/luerl.png" align="right" width="200" alt="Awesome Luerl">
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)!
 
-A community-driven collection of high-quality, awesome [Luerl](http://luerl.org) compatible libraries, projects, and resources.
+A community-driven collection of awesome [Luerl](http://luerl.org) compatible libraries, projects, and resources.
 
 ## Table of contents
 

@@ -36,7 +36,7 @@ A categorized community-driven collection of high-quality, awesome [Luerl](http:
 * [vector.lua](https://github.com/themousery/vector.lua) - a simple vector library based on the PVector class from processing
 
 ## <a name="object"></a>Object Orientation
-*Object Orientation Libraries that support [Class-Commons](https://github.com/bartbes/Class-Commons)*
+*Object Orientation Libraries*
 
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support
 

@@ -50,6 +50,6 @@
 ## Serialization
 *Serialization Libraries*
 
-* [JSON](json) - JSON encoder/decoder implemented in pure Lua.
+* [JSON](json/JSON.lua) - JSON encoder/decoder implemented in pure Lua.
 
 

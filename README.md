@@ -17,7 +17,8 @@
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
-* [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
+* [jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
+* [bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 
 ## Entity
 *Entity Managing Libraries*
@@ -31,7 +32,6 @@
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
 * [moses](https://github.com/Yonaba/Moses) - Utility library for functional programming in Lua
 * [schema](https://github.com/sschoener/lua-schema) - A simple package to check LUA-data against schemata
-* [bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [tamale](https://github.com/perusio/tamale) - An Erlang-style pattern-matching library for Lua
 
 
@@ -48,6 +48,6 @@
 ## Serialization
 *Serialization Libraries*
 
-* [json](json) - a high quality encoder/decoder JSON.lua library
+* [json](json) - A high quality encoder/decoder JSON.lua library
 
 

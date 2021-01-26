@@ -1,9 +1,9 @@
 # awesome-luerl
 <img src="https://luerl.org/images/luerl.png" align="right" width="200" alt="Awesome Luerl">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)!
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A community-driven collection of awesome [Luerl](http://luerl.org) compatible libraries.
+> A community-driven collection of awesome [Luerl](http://luerl.org) compatible libraries.
 
 ## Table of contents
 
@@ -12,9 +12,7 @@ A community-driven collection of awesome [Luerl](http://luerl.org) compatible li
 * [Helper Libraries](#helper-libraries)
 * [Math](#math)
 * [Object Orientation](#object)
-* [Physics](#physics)
 * [Serialization](#serialization)
-* [Utilities](#utilities)
 
 ## AI
 *Navigation, Decision-Making and AI Libraries*
@@ -30,6 +28,7 @@ A community-driven collection of awesome [Luerl](http://luerl.org) compatible li
 *Game specific Library bundles, that provide reuseable functions*
 
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
+* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 
 ## Math
 *Math specific Libraries*
@@ -41,18 +40,9 @@ A community-driven collection of awesome [Luerl](http://luerl.org) compatible li
 
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods, class variables and weak mixin support
 
-## Physics
-*Collision Detection & Physics Wrappers*
-
-* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
-
 ## Serialization
 *Save Game & Storage Libraries*
 
 * [json](json) - a high quality encoder/decoder JSON.lua library
 
-## Utilities
-*Non-Game specific libraries and tools*
-
-* [ArrayRotation](https://gist.github.com/rm-code/4118d4a97d8cde16952199d94b84ead0) - Rotation of two dimensional arrays (square and non-square)
 

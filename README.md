@@ -40,7 +40,7 @@
 ## Math
 *Math specific Libraries*
 
-* [vector.lua](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from [processing.org](https//processing.org)
+* [vector.lua](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from [processing.org](https://processing.org)
 
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries*

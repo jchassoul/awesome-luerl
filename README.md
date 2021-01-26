@@ -40,12 +40,12 @@
 ## Math
 *Math specific Libraries*
 
-* [vector.lua](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from processing
+* [vector.lua](https://github.com/themousery/vector.lua) - A simple vector library based on the PVector class from [processing.org](https//processing.org)
 
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries*
 
-* [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods, class variables and weak mixin support
+* [middleclass](https://github.com/kikito/middleclass) - Simple but robust OOP library with inheritance, methods, metamethods, class variables and mixins.
 
 ## Serialization
 *Serialization Libraries*

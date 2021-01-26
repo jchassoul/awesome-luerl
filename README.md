@@ -20,7 +20,7 @@
 * [Jumper](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
 
 ## Entity
-*Entity and Gameobject Managing Libraries*
+*Entity Managing Libraries*
 
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
 
@@ -41,7 +41,7 @@
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods, class variables and weak mixin support
 
 ## Serialization
-*Save Game & Storage Libraries*
+*Serialization Libraries*
 
 * [json](json) - a high quality encoder/decoder JSON.lua library
 

@@ -25,10 +25,15 @@
 * [tiny-ecs](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
 
 ## <a name="helper"></a>Helper Libraries
-*Game specific Library bundles, that provide reuseable functions*
+*Library bundles, that provide reuseable functions*
 
+* [luafun](https://github.com/luafun/luafun) - A high-performance functional programming library for Lua
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
-* [Bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
+* [moses](https://github.com/Yonaba/Moses) - Utility library for functional programming in Lua
+* [schema](https://github.com/sschoener/lua-schema) - A simple package to check LUA-data against schemata
+* [bump](https://github.com/kikito/bump.lua) - Collision detection library for Lua
+* [tamale](https://github.com/perusio/tamale) - An Erlang-style pattern-matching library for Lua
+
 
 ## Math
 *Math specific Libraries*

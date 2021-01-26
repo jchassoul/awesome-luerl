@@ -30,10 +30,12 @@
 
 * [luafun](https://github.com/luafun/luafun) - A high-performance functional programming library for Lua
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
-* [moses](https://github.com/Yonaba/Moses) - Utility library for functional programming in Lua
+* [moses](https://github.com/Yonaba/Moses) - Functional programming utility belt, inspired by Underscore.js
 * [schema](https://github.com/sschoener/lua-schema) - A simple package to check LUA-data against schemata
 * [tamale](https://github.com/perusio/tamale) - An Erlang-style pattern-matching library for Lua
-
+* [utf8](utf8) - Provides UTF-8 aware string functions implemented in pure lua
+* [klua-string](https://github.com/airtaxi/KLua-String) - A Korean string library for lua
+* [chroma](https://github.com/ldrumm/lua-chroma) Simple colour text printing for ANSI compatible terminals
 
 ## Math
 *Math specific Libraries*

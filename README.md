@@ -48,6 +48,6 @@
 ## Serialization
 *Serialization Libraries*
 
-* [json](json) - A high quality encoder/decoder JSON.lua library
+* [json](json) - JSON encoder/decoder implemented in pure Lua.
 
 

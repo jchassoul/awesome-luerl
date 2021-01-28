@@ -31,6 +31,7 @@
 * [luafun](https://github.com/luafun/luafun) - A high-performance functional programming library for Lua
 * [lume](https://github.com/rxi/lume/) - Collection of functions for Lua, geared towards game development
 * [moses](https://github.com/Yonaba/Moses) - Functional programming utility belt, inspired by Underscore.js
+* [beholder](https://github.com/kikito/beholder.lua) - Minimal observer pattern for Lua, with a couple twists
 * [schema](https://github.com/sschoener/lua-schema) - A simple package to check Lua-data against schemata
 * [tamale](https://github.com/perusio/tamale) - An Erlang-style pattern-matching library for Lua
 * [utf8](utf8/utf8char.lua) - Provides UTF-8 aware string functions implemented in pure Lua
